@@ -70,15 +70,15 @@
 
 [Файл vms.tf](vms.tf)
 
-[Файл network](network.tf)
+[Файл network.tf](network.tf)
 
-![Решение 1](https://github.com/noisy441/backup/blob/main/img/img1.png)
+![Решение 1](https://github.com/noisy441/fault-tolerance/blob/main/img/img1.png)
 
-![Решение 1](https://github.com/noisy441/backup/blob/main/img/img2.png)
+![Решение 1](https://github.com/noisy441/fault-tolerance/blob/main/img/img2.png)
 
-![Решение 1](https://github.com/noisy441/backup/blob/main/img/img3.png)
+![Решение 1](https://github.com/noisy441/fault-tolerance/blob/main/img/img3.png)
 
-![Решение 1](https://github.com/noisy441/backup/blob/main/img/img4.png)
+![Решение 1](https://github.com/noisy441/fault-tolerance/blob/main/img/img4.png)
 
 ---
 
